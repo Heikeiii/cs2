@@ -1,1 +1,1 @@
--console -high -nojoy -softparticlesdefaultoff -r_dynamic 0 +exec autoexec.cfg
+-console -novid -tickrate 128 +exec autoexec.cfg -allow_third_party_software
